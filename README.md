@@ -1,0 +1,2 @@
+# class_atribute_method
+lessons of class_atributes_methods_python
